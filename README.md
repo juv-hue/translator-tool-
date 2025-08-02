@@ -19,9 +19,6 @@ and understanding easier across language barriers.
 1. Clone this repository:
    git clone https://github.com/juv-hue/translator-tool-
    
-1. Navigate to the project directory:
-   c:\Users\haroo\OneDrive\Desktop\juveriyasss\language_translator_gui.py
-   
 2. Install the required dependencies:
    
    # Example for Python
