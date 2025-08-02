@@ -144,3 +144,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = LanguageTranslatorGUI(root)
     root.mainloop()
+built for codealpha internship program🩵
