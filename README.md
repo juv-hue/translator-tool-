@@ -17,14 +17,12 @@ and understanding easier across language barriers.
 ## Installation ⚡
 
 1. Clone this repository:
-   sh
    git clone https://github.com/juv-hue/translator-tool-
    
-2. Navigate to the project directory:
-   sh
-   cd https://github.com/juv-hue/translator-tool-
+1. Navigate to the project directory:
+   c:\Users\haroo\OneDrive\Desktop\juveriyasss\language_translator_gui.py
    
-3. Install the required dependencies:
+2. Install the required dependencies:
    
    # Example for Python
    pip install -r requirements.txt
