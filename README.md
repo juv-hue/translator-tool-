@@ -24,7 +24,7 @@ and understanding easier across language barriers.
    cd https://github.com/juv-hue/translator-tool-
    
 3. Install the required dependencies:
-   sh
+   
    # Example for Python
    pip install -r requirements.txt
    
@@ -32,7 +32,7 @@ and understanding easier across language barriers.
 ## Usage
 
 - Run the tool:
-  sh
+  
   # Example for Python
   python translator.py
   
